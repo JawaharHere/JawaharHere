@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JawaharHere
-- 👀 I’m interested in meeting new talents and connecting them with greater opportunities
-- 📫 How to reach me jawaharraja.sr@plintron.com
+- 👀 I’m working forward to develop my skills in data analytics.  
+- 📫 How to reach me jawahar.inside@gmail.com
 
 <!---
 JawaharHere/JawaharHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
